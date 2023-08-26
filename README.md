@@ -1,1 +1,1 @@
-# Weather_Prediction
+This is a weather prediction project made with using Ridge Regression
